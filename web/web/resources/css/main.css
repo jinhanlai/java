@@ -1,0 +1,61 @@
+form h1 {
+    display: inline-block;
+    width: 820px;
+}
+
+.check {
+    padding: 30px 30px;
+}
+
+form {
+    display: inline;
+}
+
+.contain {
+    width: 1240px;
+    border-radius: 10px;
+    border: 1px #bbb solid;
+    background-color: white;
+    padding-top: 20px;
+    float: left;
+}
+.form-inline1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    /* display: flex; */
+    /* -webkit-box-orient: horizontal; */
+    /* -webkit-box-direction: normal; */
+    -ms-flex-flow: row wrap;
+    /* flex-flow: row wrap; */
+    /* -webkit-box-align: center; */
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 20px;
+}
+button {
+    margin-left: 10px;
+}
+
+.search {
+    display: inline-block;
+    margin-left: 260px;
+}
+
+.add {
+    float: right;
+    margin-right: 50px;
+}
+.pageNav{
+    margin-left: 380px;
+}
+table{
+    table-layout:fixed ;
+}
+table thead tr th{
+    text-align: left;
+    height:60px;
+}
+table tr td{
+    text-align: left;
+    height:60px;
+}

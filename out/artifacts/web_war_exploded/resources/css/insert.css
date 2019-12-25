@@ -1,0 +1,33 @@
+.form-control {
+    width: 300px;
+    height: 30px;
+    float: right;
+}
+
+select {
+    width: 210px;
+    height: 30px;
+}
+
+.submit {
+    margin-left: 100px;
+    margin-right: 30px;
+}
+
+.contain {
+    width: 1000px;
+    border: 1px #bbb solid;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    margin-right: 10px;
+}
+
+form {
+    margin-left: 300px;
+}
